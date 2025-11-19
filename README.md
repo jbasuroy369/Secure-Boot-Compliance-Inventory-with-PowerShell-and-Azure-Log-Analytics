@@ -1,0 +1,1 @@
+# Secure-Boot-Compliance-Inventory-with-PowerShell-and-Azure-Log-Analytics
